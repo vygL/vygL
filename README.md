@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vygL
+- 👋 Hi, I’m Valley Lin @vygL.
 - 👀 I’m interested in rendering/parallelization
 - 🌱 I’m currently learning GPGPU/Ray tracing.
 - 💞️ I’m looking to collaborate on ...
